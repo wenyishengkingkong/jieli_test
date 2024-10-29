@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "console": "externalTerminal",
+      "cwd": "c:/Users/61007/Desktop/JL/fw-AC79_AIoT_SDK/apps/demo/demo_audio/board/wl82",
+      "program": "c:/Users/61007/Desktop/JL/fw-AC79_AIoT_SDK/apps/demo/demo_audio/board/wl82/build/Debug/outDebug"
+    }
+  ]
+}
